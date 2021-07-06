@@ -13,6 +13,7 @@ import {
 } from "semantic-ui-react";
 import Loader from "react-dots-loader";
 import "react-dots-loader/index.css";
+import rocket from "../../assets/rocket.png";
 
 export class Sidebar extends Component {
   state = {
@@ -125,7 +126,7 @@ export class Sidebar extends Component {
     return (
       <React.Fragment>
         <Menu
-          style={{ background: "#a20000", paddingTop: "2em" }}
+          style={{ background: "#cc2837", paddingTop: "2em" }}
           vertical
           inverted
           fluid
@@ -133,8 +134,9 @@ export class Sidebar extends Component {
           size="large"
         >
           <Header inverted as="h3">
-            <Icon name="chat" />
-            <Header.Content> Simple Chat </Header.Content>
+            <img src={rocket} />
+            {/* <Icon name="chat" /> */}
+            <Header.Content> Rocket Chat </Header.Content>
             <Header.Subheader>
               Login as :{" "}
               {user.nickname[0].toUpperCase() + user.nickname.slice(1)}

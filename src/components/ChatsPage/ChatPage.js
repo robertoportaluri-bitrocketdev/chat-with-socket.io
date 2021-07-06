@@ -131,7 +131,7 @@ export class ChatPage extends Component {
           computer={4}
           tablet={4}
           mobile={6}
-          style={{ background: "#a20000", height: "100%" }}
+          style={{ background: "#cc2837", height: "100%" }}
         >
           <Sidebar
             user={user}
