@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/chat-bitrocket/precache-manifest.452e37ffd4d6d4c37811d8e086e19870.js"
+  "/roberto-bitrocketdev.github.io/precache-manifest.0b7d3ef2db9bec41f148bc5f41fd361a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/chat-bitrocket/index.html", {
+workbox.routing.registerNavigationRoute("/roberto-bitrocketdev.github.io/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

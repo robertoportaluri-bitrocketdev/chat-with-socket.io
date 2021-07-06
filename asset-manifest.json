@@ -1,15 +1,15 @@
 {
-  "main.css": "/chat-bitrocket/static/css/main.0b57811e.chunk.css",
-  "main.js": "/chat-bitrocket/static/js/main.c05e6f02.chunk.js",
-  "main.js.map": "/chat-bitrocket/static/js/main.c05e6f02.chunk.js.map",
-  "runtime~main.js": "/chat-bitrocket/static/js/runtime~main.98467c5e.js",
-  "runtime~main.js.map": "/chat-bitrocket/static/js/runtime~main.98467c5e.js.map",
-  "static/css/2.dee698f7.chunk.css": "/chat-bitrocket/static/css/2.dee698f7.chunk.css",
-  "static/js/2.e9310b1f.chunk.js": "/chat-bitrocket/static/js/2.e9310b1f.chunk.js",
-  "static/js/2.e9310b1f.chunk.js.map": "/chat-bitrocket/static/js/2.e9310b1f.chunk.js.map",
-  "index.html": "/chat-bitrocket/index.html",
-  "precache-manifest.452e37ffd4d6d4c37811d8e086e19870.js": "/chat-bitrocket/precache-manifest.452e37ffd4d6d4c37811d8e086e19870.js",
-  "service-worker.js": "/chat-bitrocket/service-worker.js",
-  "static/css/2.dee698f7.chunk.css.map": "/chat-bitrocket/static/css/2.dee698f7.chunk.css.map",
-  "static/css/main.0b57811e.chunk.css.map": "/chat-bitrocket/static/css/main.0b57811e.chunk.css.map"
+  "main.css": "/roberto-bitrocketdev.github.io/static/css/main.0b57811e.chunk.css",
+  "main.js": "/roberto-bitrocketdev.github.io/static/js/main.864b66bd.chunk.js",
+  "main.js.map": "/roberto-bitrocketdev.github.io/static/js/main.864b66bd.chunk.js.map",
+  "runtime~main.js": "/roberto-bitrocketdev.github.io/static/js/runtime~main.0dd68239.js",
+  "runtime~main.js.map": "/roberto-bitrocketdev.github.io/static/js/runtime~main.0dd68239.js.map",
+  "static/css/2.dee698f7.chunk.css": "/roberto-bitrocketdev.github.io/static/css/2.dee698f7.chunk.css",
+  "static/js/2.0149bb0c.chunk.js": "/roberto-bitrocketdev.github.io/static/js/2.0149bb0c.chunk.js",
+  "static/js/2.0149bb0c.chunk.js.map": "/roberto-bitrocketdev.github.io/static/js/2.0149bb0c.chunk.js.map",
+  "index.html": "/roberto-bitrocketdev.github.io/index.html",
+  "precache-manifest.0b7d3ef2db9bec41f148bc5f41fd361a.js": "/roberto-bitrocketdev.github.io/precache-manifest.0b7d3ef2db9bec41f148bc5f41fd361a.js",
+  "service-worker.js": "/roberto-bitrocketdev.github.io/service-worker.js",
+  "static/css/2.dee698f7.chunk.css.map": "/roberto-bitrocketdev.github.io/static/css/2.dee698f7.chunk.css.map",
+  "static/css/main.0b57811e.chunk.css.map": "/roberto-bitrocketdev.github.io/static/css/main.0b57811e.chunk.css.map"
 }
